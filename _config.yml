@@ -1,4 +1,3 @@
-layout_spectrum: 0.5924673459958285
 typography_spectrum: 0.021964307874441147
 color:
   brandStrength: 0.05487186787649989
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.5924673459958285
 name: elegant reflection
+title: Elegant Reflection
 description: An exploration of The Grid
