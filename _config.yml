@@ -1,0 +1,14 @@
+layout_spectrum: 0.5924673459958285
+typography_spectrum: 0.021964307874441147
+color:
+  brandStrength: 0.05487186787649989
+  lightness: 0.32307155546732247
+  saturation: 0.7703505305107683
+  rhythmicContrast: 0.31846004049293697
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+name: elegant reflection
